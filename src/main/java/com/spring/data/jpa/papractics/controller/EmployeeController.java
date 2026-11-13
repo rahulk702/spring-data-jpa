@@ -2,7 +2,6 @@
  * Author
  * Rahul Kumar
  */
-
 package com.spring.data.jpa.papractics.controller;
 
 import com.spring.data.jpa.papractics.entity.Employee;
